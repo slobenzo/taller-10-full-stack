@@ -10,13 +10,17 @@
 <img src="./public/images/punto1.png" alt="punto1">
 
 <h2>Punto 2: </h2>
-
+<h3> Calculo de Mayoría de Edad</h3>
+<img src="./public/images/punto2.png" alt="punto2">
 
 <h2>Punto 3: </h2>
-
+<h3>   Paso de datos del usuario</h3>
+<img src="./public/images/punto3.png" alt="punto3">
+<img src="./public/images/punto3.1.png" alt="punto3">
 
 <h2>Punto 4: </h2>
-
+<h3>  Calculo de Mayoría de Edad con Fechas</h3>
+<img src="./public/images/punto4.png" alt="punto4">
 
 <h2>Punto 5-6-7:</h2>
 <h3> 5 - Base de datos</h3>

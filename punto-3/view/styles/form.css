@@ -1,0 +1,19 @@
+.form__row {
+    margin: 30px 0px;
+}
+
+.user-info__container div {
+    margin: 15px 0;
+}
+
+.user-info__container b {
+    color: #e87537e2;
+}
+
+.go-back {
+    margin-top: 50px;
+}
+
+button {
+        margin-top: 50px;
+}
